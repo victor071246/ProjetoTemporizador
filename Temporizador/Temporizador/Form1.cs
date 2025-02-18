@@ -202,7 +202,7 @@ namespace Temporizador
         {
             string appDirectory = AppDomain.CurrentDomain.BaseDirectory;
             // Caminho completo para o diretório bin, subindo dois níveis a partir de appDirectory
-            //string binDirectory = Path.GetFullPath(Path.Combine(appDirectory, @"..\..\"));
+            string rootDirectory = Path.GetFullPath(Path.Combine(appDirectory, @"..\..\..\"));
             // Caminho completo para o arquivo de fonte, dentro da pasta Resources
             string fontPath = Path.Combine("Resources", "Orbitron-Regular.ttf");
             //// Lista todos os recursos embutidos no projeto

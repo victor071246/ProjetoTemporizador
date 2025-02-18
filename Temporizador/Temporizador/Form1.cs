@@ -205,10 +205,10 @@ namespace Temporizador
             string binDirectory = Path.GetFullPath(Path.Combine(appDirectory, @"..\..\"));
             // Caminho completo para o arquivo de fonte, dentro da pasta Resources
             string fontPath = Path.Combine(binDirectory, "Resources", "Orbitron-Regular.ttf");
-            //MessageBox.Show(binDirectory);
+            MessageBox.Show(binDirectory);
             //// Lista todos os recursos embutidos no projeto
-            //string[] recursos = Assembly.GetExecutingAssembly().GetManifestResourceNames();
-            //MessageBox.Show("Recursos encontrados:\n" + string.Join("\n", recursos), "Depuração", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            string[] recursos = Assembly.GetExecutingAssembly().GetManifestResourceNames();
+            MessageBox.Show("Recursos encontrados:\n" + string.Join("\n", recursos), "Depuração", MessageBoxButtons.OK, MessageBoxIcon.Information);
             pfc.AddFontFile(fontPath);
 
             contador.Font = new Font(pfc.Families[0], 48);

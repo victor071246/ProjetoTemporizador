@@ -209,11 +209,13 @@ namespace Temporizador
             //// Lista todos os recursos embutidos no projeto
             //string[] recursos = Assembly.GetExecutingAssembly().GetManifestResourceNames();
             //MessageBox.Show("Recursos encontrados:\n" + string.Join("\n", recursos), "Depuração", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            pfc.AddFontFile("C:\\Users\\victo\\OneDrive\\Área de Trabalho\\programação\\c_sharp_udemy\\Temporizador\\Temporizador\\Resources\\Orbitron-Regular.ttf");
+            pfc.AddFontFile(fontPath);
 
             contador.Font = new Font(pfc.Families[0], 48);
             button1.Font = new Font(pfc.Families[0], 22);
             button2.Font = new Font(pfc.Families[0], 22);
+
+
 
         }
 

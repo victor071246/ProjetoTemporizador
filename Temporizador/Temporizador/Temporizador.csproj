@@ -75,12 +75,24 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <EmbeddedResource Include="Resources\Orbitron-Black.ttf" />
-    <EmbeddedResource Include="Resources\Orbitron-Bold.ttf" />
-    <EmbeddedResource Include="Resources\Orbitron-ExtraBold.ttf" />
-    <EmbeddedResource Include="Resources\Orbitron-Medium.ttf" />
-    <EmbeddedResource Include="Resources\Orbitron-Regular.ttf" />
-    <EmbeddedResource Include="Resources\Orbitron-SemiBold.ttf" />
+    <EmbeddedResource Include="Resources\Orbitron-Black.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Orbitron-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Orbitron-ExtraBold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Orbitron-Medium.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Orbitron-Regular.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\Orbitron-SemiBold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

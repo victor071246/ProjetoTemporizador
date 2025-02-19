@@ -1,0 +1,16 @@
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Temporizador.exe.config
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Temporizador.exe
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Temporizador.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.Form1.resources
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.Properties.Resources.resources
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.csproj.GenerateResource.cache
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.exe
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\obj\Release\Temporizador.pdb
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-Black.ttf
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-Bold.ttf
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-ExtraBold.ttf
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-Medium.ttf
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-Regular.ttf
+C:\Users\victo\OneDrive\Área de Trabalho\programação\c_sharp_udemy\Temporizador\Temporizador\bin\Release\Resources\Orbitron-SemiBold.ttf
